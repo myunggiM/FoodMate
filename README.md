@@ -47,14 +47,14 @@ git clone https://lab.ssafy.com/s03-bigdata-sub3/s03p23a306.git
 ### 와이어프레임 
 [이동하기](https://ovenapp.io/view/HkXw7fQzT5sWEsQSC6LzFuYMTqb4bMGu#64AM9)
 
-### ERD (추후 수정 요망) 
+### ERD 
 [이동하기](https://lab.ssafy.com/s03-bigdata-sub3/s03p23a306/blob/develop/doc/ER-Diagram.png)
 
 
 
 ## 📱 페이지 기능 소개
 ### 1. 메인페이지 (사람들이 많이 찾는 궁합 Top3를 보여줌)
-### 2. 프로필 (회원정보 뿐만 아니라 영양정보관리와 식단등록, 목표체중관리등				을 할 수 있다.)
+### 2. 프로필 (회원정보 뿐만 아니라 영양정보관리와 식단등록, 목표체중관리등을 할 수 있다.)
 ### 3. 커뮤니티 (회원들간의 자신의 궁합음식 경험을 토대로 정보를 공유)
 ### 4. 취향지도 (회원이 자신이 등록한 취향에 대해서 그에 맞는 음식점 추천서비스)
 ### 5. 영양관리 (자신이 목표로 세운 체중 및 체형에 대해 날짜별 관리서비스)
